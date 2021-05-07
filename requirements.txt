@@ -1,0 +1,6 @@
+pytest
+pytest-html
+allure-pytest
+PyYAML
+selenium
+zmail
